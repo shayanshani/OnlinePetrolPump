@@ -1,0 +1,60 @@
+D:\OnlinePetrolPump\OnlinePetrolPump\bin\OnlinePetrolPump.dll.config
+D:\OnlinePetrolPump\OnlinePetrolPump\bin\OnlinePetrolPump.dll
+D:\OnlinePetrolPump\OnlinePetrolPump\bin\OnlinePetrolPump.pdb
+D:\OnlinePetrolPump\OnlinePetrolPump\bin\NetSpell.SpellChecker.dll
+D:\OnlinePetrolPump\OnlinePetrolPump\bin\NetSpell.SpellChecker.xml
+D:\OnlinePetrolPump\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.dll
+D:\OnlinePetrolPump\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.pdb
+D:\OnlinePetrolPump\OnlinePetrolPump\bin\telerik.web.ui.dll
+D:\OnlinePetrolPump\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.csprojResolveAssemblyReference.cache
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\OnlinePetrolPump.dll.config
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\OnlinePetrolPump.dll
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\OnlinePetrolPump.pdb
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\Helper.dll
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\NetSpell.SpellChecker.dll
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\telerik.web.ui.dll
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\Helper.pdb
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\bin\NetSpell.SpellChecker.xml
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.dll
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.pdb
+I:\Client Projects\OnlinePetrolPump\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.csprojResolveAssemblyReference.cache
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll.config
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.pdb
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\Helper.dll
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.dll
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\telerik.web.ui.dll
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\Helper.pdb
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.xml
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.csprojResolveAssemblyReference.cache
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.dll
+I:\Client Projects\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.pdb
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll.config
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.pdb
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\Helper.dll
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.dll
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\telerik.web.ui.dll
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\Helper.pdb
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.xml
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.csprojResolveAssemblyReference.cache
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.dll
+I:\Client Projects\Codes\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.pdb
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll.config
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.pdb
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.dll
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\bin\telerik.web.ui.dll
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.xml
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.dll
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.pdb
+D:\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.csprojResolveAssemblyReference.cache
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll.config
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.dll
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\bin\OnlinePetrolPump.pdb
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.dll
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\bin\Helper.pdb
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\bin\NetSpell.SpellChecker.xml
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.csprojResolveAssemblyReference.cache
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.dll
+I:\Client Projects\Codes\Petrolium\OnlinePetrolPump - Master\OnlinePetrolPump\obj\Debug\OnlinePetrolPump.pdb
