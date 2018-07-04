@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <asp:TextBox ID="txtCategory" runat="server"></asp:TextBox>
     </div>
     </form>
 </body>
